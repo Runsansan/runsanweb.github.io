@@ -4,11 +4,11 @@
     <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
 </div>
 
-**基本信息：** x某某 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 山东青岛
+**基本信息：** 杨宇直 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 陕西西安
 
-**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** congsw@foxmail.com
+**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** runsanweb@foxmail.com
 
-**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;**实习经验：** x年
+#**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;**实习经验：** x年
 
 **GitHub：** https://github.com/congshengwu 
 
